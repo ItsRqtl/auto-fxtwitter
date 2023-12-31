@@ -2,8 +2,7 @@ function modifyClipboard(event) {
     const clipboardText = window.getSelection().toString()
     if (clipboardText.includes("x.com") || clipboardText.includes("twitter.com")) {
         const modifiedText = clipboardText
-            .replace(/twitter\.com/g, "fxtwitter.com")
-            .replace(/x\.com/g, "fixupx.com")
+            .replace(/(?:twitter|x)\.com/g, "fxtwitter.com")
             .replace(/\?.*$/, '');
         navigator.clipboard.writeText(modifiedText)
             .then(() => {console.log("Successfully modified clipboard: " + modifiedText)})
