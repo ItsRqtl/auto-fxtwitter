@@ -19,8 +19,8 @@
     },
     "browser_specific_settings": {
         "gecko": {
-            "id": "auto-fxtwitter@itsrqtl",
-            "strict_min_version": "63.0"
+            "id": "autofxtwitter@itsrqtl",
+            "strict_min_version": "109.0"
         }
     }
 }
