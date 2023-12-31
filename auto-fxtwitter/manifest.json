@@ -16,5 +16,11 @@
     ],
     "action": {
         "default_popup": "popup.html"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "auto-fxtwitter@itsrqtl",
+            "strict_min_version": "63.0"
+        }
     }
 }
