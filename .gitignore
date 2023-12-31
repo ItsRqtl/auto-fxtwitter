@@ -1,0 +1,9 @@
+# zipped extension for submission
+*.zip
+
+# packed extension
+*.crx
+*.pem
+
+# macos specific files
+.DS_Store
