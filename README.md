@@ -2,7 +2,7 @@
 
 A simple Chrome extension that seamlessly converts `twitter.com`/`x.com` to `fxtwitter.com` when copying links via the share button. Useful when you want to share the post with preview (e.g. on Discord).
 
-> [!TIPS]
+> [!TIP]
 You can change the replacing domain (default: `fxtwitter.com`) by clicking the extension icon in the toolbar.  
 For example, you can change it to `fixupx.com` or `vxtwitter.com`.
 
