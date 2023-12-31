@@ -1,6 +1,6 @@
 # Auto FxTwitter
 
-A simple Chrome extension that seamlessly converts `twitter.com`/`x.com` to `fxtwitter.com` when copying links via the share button. Useful when you want to share the post with preview (e.g. on Discord).
+A simple browser extension that seamlessly converts `twitter.com`/`x.com` to `fxtwitter.com` when copying links via the share button. Useful when you want to share the post with preview (e.g. on Discord).
 
 > [!TIP]
 You can change the replacing domain (default: `fxtwitter.com`) by clicking the extension icon in the toolbar. For example, you can change it to `fixupx.com` or `vxtwitter.com`.
@@ -20,6 +20,11 @@ This extension is planned to be published on the Chrome Web Store, but it is not
 
 > [!NOTE]
 This extension is currently under review at Microsoft Edge Add-ons, it will be published soon.
+
+- Install the extension at [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/autofxtwitter/).
+
+> [!NOTE]
+This extension is currently under review at Firefox Browser Add-ons, it will be published soon.
 
 - Load the extension manually:
 
