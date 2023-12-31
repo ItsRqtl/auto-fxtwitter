@@ -7,11 +7,14 @@
         "48": "assets/icon-48.png",
         "128": "assets/icon-128.png"
     },
-    "permissions": ["clipboardWrite"],
+    "permissions": ["clipboardWrite", "storage"],
     "content_scripts": [
         {
             "matches": ["*://twitter.com/*", "*://x.com/*"],
             "js": ["auto-fxtwitter.js"]
         }
-    ]
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
 }
