@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Auto FxTwitter",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Automatically use fxtwitter when sharing a post.",
     "icons": {
         "48": "assets/icon-48.png",
@@ -20,7 +20,7 @@
     "browser_specific_settings": {
         "gecko": {
             "id": "autofxtwitter@itsrqtl",
-            "strict_min_version": "109.0"
+            "strict_min_version": "63.0"
         }
     }
 }

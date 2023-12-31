@@ -41,7 +41,8 @@ Tested on Opera GX. However, this method does not work on some browsers, includi
     3. Click `Load unpacked` and select the `auto-fxtwitter` folder in the cloned repository.
 
 > [!NOTE]
-You have to select the `auto-fxtwitter` folder in the repository, not the repository itself.
+You have to select the `auto-fxtwitter` folder in the repository, not the repository itself.  
+If you are using firefox, you have to delete the `manifest.json` and rename `manifest-firefox.json` to `manifest.json` before loading the extension.
 
 ## Usage
 
