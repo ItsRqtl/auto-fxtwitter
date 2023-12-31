@@ -23,6 +23,18 @@ This extension is currently under review at Microsoft Edge Add-ons, it will be p
     1. Download the latest release from [here](https://github.com/itsrqtl/auto-fxtwitter/releases).
     2. Install the extension with the .crx file.
 
+> [!NOTE]
+Tested on Opera GX. However, this method does not work on some browsers, including Chrome, Edge, and more.
+
+- Load the extension through developer mode:
+
+    1. Clone this repository.
+    2. Go to `chrome://extensions` (or your browsers' extension page) and enable developer mode.
+    3. Click `Load unpacked` and select the `auto-fxtwitter` folder in the cloned repository.
+
+> [!NOTE]
+You have to select the `auto-fxtwitter` folder in the repository, not the repository itself.
+
 ## Usage
 
 The extension will start working automatically in the background after installation. Copy a post link from Twitter (X) and paste it somewhere to see the magic.
