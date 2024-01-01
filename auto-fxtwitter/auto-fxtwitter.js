@@ -1,5 +1,12 @@
 function modifyClipboard(event) {
-    const clipboardText = window.getSelection().toString();
+    let clipboardText = window.getSelection().toString();
+
+    if (clipboardText === "") {
+        clipboardText = window.location.href;
+        if (!clipboardText.match(/(twitter|x)\.com\/.{4,15}\/status\/\d+/)) {
+            return;
+        }
+    }
 
     if (clipboardText.includes("x.com") || clipboardText.includes("twitter.com")) {
         chrome.storage.sync.get(
