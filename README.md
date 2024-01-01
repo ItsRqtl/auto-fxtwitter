@@ -23,9 +23,6 @@ This extension is currently under review at Microsoft Edge Add-ons, it will be p
 
 - Install the extension at [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/autofxtwitter/).
 
-> [!NOTE]
-This extension is currently under review at Firefox Browser Add-ons, it will be published soon.
-
 - Load the extension manually:
 
     1. Download the latest release from [here](https://github.com/itsrqtl/auto-fxtwitter/releases).
