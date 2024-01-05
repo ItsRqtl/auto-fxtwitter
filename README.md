@@ -24,10 +24,7 @@ It does not convert links when you copy links from the address bar directly, as 
 > [!NOTE]
 This extension is planned to be published on the Chrome Web Store, but it is not there yet.
 
-- Install the extension at [Microsoft Edge Add-ons](https://github.com/itsrqtl/auto-fxtwitter).
-
-> [!NOTE]
-This extension is currently under review at Microsoft Edge Add-ons, it will be published soon.
+- Install the extension at [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/fogonnnpmlmkcaigjnjibbklgegeoaph).
 
 - Install the extension at [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/autofxtwitter/).
 
