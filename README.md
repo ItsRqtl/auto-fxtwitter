@@ -26,9 +26,6 @@ This extension is planned to be published on the Chrome Web Store, but it is not
 
 - Install the extension at [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/fogonnnpmlmkcaigjnjibbklgegeoaph).
 
-> [!NOTE]
-The latest version of the extension may not be available on Microsoft Edge Add-ons.
-
 - Install the extension at [Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/autofxtwitter/).
 
 - Load the extension manually:
